@@ -4,7 +4,7 @@
 ######git的使用######
 
 1.进入到项目目录
-cd /c/app/xxx
+cd /F/学习/13其他职位技术/web前端开发/github/
 git init --初始化，生成.git隐藏文件类似.svn
 
 2.项目先clone下来
